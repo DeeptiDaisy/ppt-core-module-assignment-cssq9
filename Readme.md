@@ -8,13 +8,15 @@ This is a responsive page showing a footer section built in HTML and CSS.
 
 <br/>
 
-![desktop](./screenshots/screenshot.png)
+![image](https://github.com/DeeptiDaisy/ppt-core-module-assignment-cssq9/assets/109961309/1dbb378e-274a-406c-a5df-b68713dfd6fa)
+
 
 <br/>
 
 ### Mobile Layout:
 
-![mobile](./screenshots/mobile.png)
+![image](https://github.com/DeeptiDaisy/ppt-core-module-assignment-cssq9/assets/109961309/bdbcf673-d97e-4a1b-a967-6e4ad9fb9016)
+
 
 <br/>
 
